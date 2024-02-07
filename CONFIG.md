@@ -29,8 +29,6 @@ my-list
 - twst
 - ツイステファンアート
 - twstファンアート
-- 
-- 
 
 # denyList
 
