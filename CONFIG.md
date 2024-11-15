@@ -51,4 +51,5 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![twsticon](https://github.com/user-attachments/assets/689e0691-80dd-469f-ae7a-7dce185175c0)
+
